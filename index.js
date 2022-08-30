@@ -1,4 +1,4 @@
-<script src="https://code.jquery.com/jquery-3.6.1.js"></script>
+
     var o = $(".card");
     $(".top").on("mousemove", function (t) {
         var e = -($(window).innerWidth() / 2 - t.pageX) / 30,

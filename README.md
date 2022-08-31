@@ -1,4 +1,4 @@
-<h1>:blue_car: <a href="https://marcuslirio.github.io/Paralax/"> Portfólio </a></h1>
+<h1><a href="https://marcuslirio.github.io/Paralax/"> Card </a></h1>
 
 <div style="display: inline_block">
 

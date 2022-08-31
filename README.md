@@ -12,7 +12,7 @@
 
 <div style="display: inline_block">
   
-  <a href="https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/"><h1>Linkedin</h1></a>
+  <h1><a href="https://www.linkedin.com/in/marcus-vinicius-lirio-a61ab8202/">Linkedin</a></h1>
 <a href="https://marcuslirio.github.io/Paralax/" target="_blank"><img src="https://marcuslirio.github.io/Paralax/rachel2.png" target="_blank"></a>
   
 </div>
